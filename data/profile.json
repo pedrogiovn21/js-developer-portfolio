@@ -1,12 +1,13 @@
 {
-    "nome": "Pedro Giovane",
-    "titulo": "JavaScript Developer",
-    "localidade": {
-      "cidade": "Catolé do Rocha",
-      "estado": "Paraíba",
-      "pais": "Brasil"
+    "name": "Pedro Giovane",
+    "photo": "https://avatars.githubusercontent.com/u/157719956?v=4",
+    "job": "JavaScript Developer",
+    "location": {
+      "city": "Catolé do Rocha",
+      "state": "Paraíba",
+      "country": "Brasil"
     },
-    "telefone": "(83) 99993-4796",
+    "phone": "(83) 99993-4796",
     "email": "pedrogiovanepereira@gmail.com",
     "skills": {
       "hardSkills": [
