@@ -27,19 +27,10 @@
         "Trabalho em equipe"
       ]
     },
-    "language": [
-      {
-        "nome": "Português",
-        "nivel": "Nativo"
-      },
-      {
-        "nome": "Inglês",
-        "nivel": "Intermediário"
-      },
-      {
-        "nome": "Espanhol",
-        "nivel": "Intermediário"
-      }
+    "languages": [
+        "Português - BR (Nativo)",
+        "Inglês (Intermediário)",
+        "Espanhol (Intermediário)"
     ],
     "portfolio": [
       {
