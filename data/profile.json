@@ -54,14 +54,14 @@
         "gitHub": "https://github.com/pedrogiovn21/Alura-plus"
       }
     ],
-    "experiencias": [
+    "experience": [
       {
-        "nome": "JavaScript Developer ",
-        "descricao": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.",
-        "instituicao": "Digital Innovation One (DIO)",
-        "periodo": {
-          "inicio": "02/2024",
-          "fim": "Atualmente"
+        "name": "JavaScript Developer ",
+        "description": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.",
+        "institution": "Digital Innovation One (DIO)",
+        "period": {
+          "start": "02/2024",
+          "end": "Atualmente"
         }
       }
     ]
