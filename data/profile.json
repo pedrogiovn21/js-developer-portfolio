@@ -34,23 +34,23 @@
     ],
     "portfolio": [
       {
-        "nome": "ALURA FOKUS",
+        "name": "ALURA FOKUS",
         "gitHub": "https://github.com/pedrogiovn21/New-AluraFokus"
       },
       {
-        "nome": "WORLDWIDE",
+        "name": "WORLDWIDE",
         "gitHub": "https://github.com/pedrogiovn21/Worldwide"
       },
       {
-        "nome": "POKEDEX",
+        "name": "POKEDEX",
         "gitHub": "https://github.com/pedrogiovn21/pokedex-JS"
       },
       {
-        "nome": "ALURA BOOKS",
+        "name": "ALURA BOOKS",
         "gitHub": "https://github.com/pedrogiovn21/AluraBooksJs"
       },
       {
-        "nome": "ALURA PLUS",
+        "name": "ALURA PLUS",
         "gitHub": "https://github.com/pedrogiovn21/Alura-plus"
       }
     ],
