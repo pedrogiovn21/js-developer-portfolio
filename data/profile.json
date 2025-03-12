@@ -8,8 +8,16 @@
     "skills": {
       "hardSkills": [
         {
-          "nome": "JavaScript",
-          "logo": "TODO"
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/pedrogiovn21/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/pedrogiovn21/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/pedrogiovn21/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
         }
       ],
       "softSkills": [
@@ -19,7 +27,7 @@
         "Trabalho em equipe"
       ]
     },
-    "idiomas": [
+    "language": [
       {
         "nome": "Português",
         "nivel": "Nativo"
